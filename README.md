@@ -6,7 +6,7 @@ Data from Citi Bike Data https://ride.citibikenyc.com/system-data
 
 ### Transform 
 
-Use Jupyter Notebook to combine NY and NJ citibike data for May2022
+Use Jupyter Notebook to combine NY and NJ citibike data for May2022 (please note the CSV exceeds github data size limit, can't be uploaded)
 
 Combined NY and NJ May 2022 bike data
 
