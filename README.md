@@ -7,6 +7,8 @@ Data from Citi Bike Data https://ride.citibikenyc.com/system-data
 ### Transform 
 
 Use Jupyter Notebook to combine NY and NJ citibike data for May2022
+Screen Shot 2022-07-14 at 6.52.42 PM.png
+
 
 ### Load
 
