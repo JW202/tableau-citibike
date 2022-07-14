@@ -1,5 +1,18 @@
 # Citibike
 
+### Extract 
+
+Data from Citi Bike Data https://ride.citibikenyc.com/system-data
+
+### Transform 
+
+Use Jupyter Notebook to combine NY and NJ citibike data for May2022
+
+### Load
+
+Load data to Tableau for visualization 
+
+
 ## NYC Citibike (May2022 data) with Tableau
 
 Purpose:
