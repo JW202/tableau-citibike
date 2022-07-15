@@ -67,3 +67,8 @@ https://public.tableau.com/app/profile/jessie.wan2316/viz/NYC_CitiBike_Dashboard
 
 
 <div class='tableauPlaceholder' id='viz1657672592202' style='position: relative'><noscript><a href='#'><img alt='Station Map - start vs. end ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NY&#47;NYC_CitiBike_Dashboard2&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NYC_CitiBike_Dashboard2&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NY&#47;NYC_CitiBike_Dashboard2&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+
+
+## Analysis for city officials 
+
+I have done analysis to findout the businest 25 bike stations, most of them are located in Manhattan. It looks like bikes are more used in the 2nd half of the month in May 2022. The rush hours are 8:00 AM and 5:00 PM everyday. Although citibike provides both classic and electric bikes, most people are still prefer classic bikes. It looks like most popular starting and ending bike stations are located in lower Manhattan.
