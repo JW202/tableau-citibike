@@ -71,4 +71,4 @@ https://public.tableau.com/app/profile/jessie.wan2316/viz/NYC_CitiBike_Dashboard
 
 ## Analysis for city officials 
 
-I have done analysis to findout the businest 25 bike stations, most of them are located in Manhattan. It looks like bikes are more used in the 2nd half of the month in May 2022. The rush hours are 8:00 AM and 5:00 PM everyday. Although citibike provides both classic and electric bikes, most people are still prefer classic bikes. It looks like most popular starting and ending bike stations are located in lower Manhattan.
+I have done analysis to findout the busiest 25 bike stations, most of them are located in Manhattan. It looks like bikes are more used in the 2nd half of the month in May 2022. The rush hours are 8:00 AM and 5:00 PM everyday. Although citibike provides both classic and electric bikes, most people are still prefer classic bikes. It looks like most popular starting and ending bike stations are located in lower Manhattan.
